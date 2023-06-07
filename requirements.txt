@@ -1,0 +1,7 @@
+langchain
+twilio
+google-auth
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pyjwt>=1.7.1,<2.0.0
